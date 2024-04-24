@@ -5,7 +5,7 @@
 <h2>Used technologies</h2>
 <ul>
     <li>React</li>
-    <li>Formik (Form, Field, ErrorMessage, useField )</li>
+    <li>Formik (Form, Field, ErrorMessage, useField)</li>
     <li>Yup for validate</li>
     <li>Create React App</li>
 </ul>
